@@ -6,11 +6,6 @@ A responsive and dynamic To-Do List application built with the power of **React*
 
 *https://to-do-list-iota-azure.vercel.app/*
 
-## Screenshot
-
-![Uploading Screenshot (1098).png…]()
-
-
 ## ✨ Features
 
   - **Dynamic UI:** A reactive interface built with React for instant updates.
@@ -73,3 +68,4 @@ In the project directory, you can run:
   - `npm test`: Launches the test runner in the interactive watch mode.
 
 -----
+
